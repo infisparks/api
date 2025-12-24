@@ -16,4 +16,10 @@
         "expirydate": "30-11-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "feac8cbef7d2332c",
+        "key": "moinzariwala",
+        "expirydate": "30-11-2026",
+        "Allowoffline": true
+    },
 ]
