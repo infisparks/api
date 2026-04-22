@@ -34,4 +34,10 @@
         "expirydate": "30-4-2026",
         "Allowoffline": true
     },
+     {
+        "device_id": "33bf997ff7e7f00a",
+        "key": "infispark",
+        "expirydate": "30-11-2026",
+        "Allowoffline": true
+    },
 ]
