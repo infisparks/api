@@ -30,8 +30,8 @@
     },
      {
         "device_id": "169ade9fd7a1f0dc",
-        "key": "IaaaTimip.82",
-        "expirydate": "30-4-2026",
+        "key": "infispark",
+        "expirydate": "30-4-2027",
         "Allowoffline": true
     },
      {
@@ -39,10 +39,5 @@
         "key": "infispark",
         "expirydate": "30-11-2026",
         "Allowoffline": true
-    },     {
-        "device_id": "169ade9fd7a1f0dc",
-        "key": "infispark",
-        "expirydate": "30-11-2027",
-        "Allowoffline": true
-    },
+    }
 ]
